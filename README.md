@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3bdomo&label=Profile%20views&color=0e75b6&style=flat" alt="3bdomo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3bdomo" alt="3bdomo" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=3bdomo&column=4&margin-w=15&margin-h=15&theme=flat" alt="3bdomo" /></a> </p>
 
 - 🔭 I’m currently working on [Readx](https://github.com/3bdomo/Readx)
 
