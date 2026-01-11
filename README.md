@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Readx](https://github.com/3bdomo/Readx)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **dotnet**
 
 - 📫 How to reach me **AbdulrahmanMo124@gmail.com**
 
