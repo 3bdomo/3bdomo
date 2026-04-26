@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3bdomo&label=Profile%20views&color=0e75b6&style=flat" alt="3bdomo" /> </p>
 
-- 🔭 I’m currently working on [Readx](https://github.com/3bdomo/Readx)
+- 🔭 I’m currently working on [Smart Routines](https://github.com/3bdomo/SmartRoutines)
 
 - 🌱 I’m currently learning **dotnet**
 
